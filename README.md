@@ -39,3 +39,25 @@ The Toolbar was not appearing in the Preference Xml Page so it has been also fix
 
 
 The UI and Working is as Follows: 
+
+The Welcome Screen when App is Loaded :
+
+![alt tag](https://github.com/pramodmg/AndroidLocalization/blob/master/ScreenShots/Welcome.png)
+
+The ToolBar Selection Screen:
+
+![alt tag](https://github.com/pramodmg/AndroidLocalization/blob/master/ScreenShots/ToolbarMenu.png)
+
+The Preference Page Selection:
+
+![alt tag](https://github.com/pramodmg/AndroidLocalization/blob/master/ScreenShots/PreferencePage.png)
+
+The Menu Preference In the preference Page:
+
+![alt tag](https://github.com/pramodmg/AndroidLocalization/blob/master/ScreenShots/LanguageSelect.png)
+
+The Output after Selecting the Hindi from the preference List:
+
+![alt tag](https://github.com/pramodmg/AndroidLocalization/blob/master/ScreenShots/LanguageSelected.png)
+
+Thank You For Following.
