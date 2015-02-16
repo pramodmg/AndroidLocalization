@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">EX</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="but1">Open Preference Screen</string>
+    <string name="but2">Change Language</string>
+    <string name="text1">Values</string>
+
+    <string name="lasttext"> आपका स्वागत है दोस्त </string>
+    <string name="prefererencemenu"> Settings </string>
+
+    <string name="toolbar_heading"> Select Language </string>
+</resources>
